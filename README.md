@@ -24,6 +24,6 @@ Perceptron-Manuel Modelling and Sklearn Logistic regression on the Breast Cancer
 
 #### 📷 Sample Output:
 
-![Cost vs Epochs]( PalmerPenguinsEDA/assets/penguinsBoxplot.png)
+![Cost vs Epochs](breast_cancer_perceptron_manual_vs_sklearn/assets/costvsEpochs.png)
 
 ---
