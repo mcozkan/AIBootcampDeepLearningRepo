@@ -18,7 +18,8 @@ Perceptron-Manuel Modelling and Sklearn Logistic regression on the Breast Cancer
     - forward and back propagation  
 - Manuel model prediction and results
 - Sklearn Logistic Regression prediction and results
-
+  
+📁 Folder: `01_Breast_Canser_DL/` 
 ▶️ [View Notebook](One_Neuron_Model_vs_Sklearn_Breast_Cancer_Data/One_Neuron_Model_vs_Sklearn_Breast_Cancer_Data.ipynb)
 
 #### 📷 Sample Output:
