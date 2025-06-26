@@ -19,8 +19,7 @@ Perceptron-Manuel Modelling and Sklearn Logistic regression on the Breast Cancer
 - Manuel model prediction and results
 - Sklearn Logistic Regression prediction and results
 
-📁 Folder: `01_penguins_eda/`  
-▶️ [View Notebook](PalmerPenguinsEDA/PalmersPenguinsEDA.ipynb)
+▶️ [View Notebook](One_Neuron_Model_vs_Sklearn_Breast_Cancer_Data/One_Neuron_Model _vs_Sklearn_Breast_Cancer_Data.ipynb)
 
 #### 📷 Sample Output:
 
