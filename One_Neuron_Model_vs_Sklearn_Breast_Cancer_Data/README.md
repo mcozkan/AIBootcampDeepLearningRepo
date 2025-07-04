@@ -9,6 +9,10 @@ This project demonstrates and compares a manually implemented single-neuron (per
   - 📈 `costvsEpochs.png`: Cost vs. epochs plot.
   - 🧑‍🏫 `gorseller_perceptron.jpg`: Additional illustration.
 
+�� Folder: `Breast_Canser_Model/` 
+▶️ [View Notebook](https://github.com/mcozkan/AIBootcampDeepLearningRepo/blob/main/One_Neuron_Model_vs_Sklearn_Breast_Cancer_Data/One_Neuron_Model%20_vs_Sklearn_Breast_Cancer_Data.ipynb)
+
+
 ## 🎯 What You'll Learn
 - 🧠 How to implement a perceptron (single neuron) from scratch in Python.
 - 🤖 How to use scikit-learn's logistic regression for classification.
@@ -44,8 +48,15 @@ This project demonstrates and compares a manually implemented single-neuron (per
 
 ## 🖼️ Visuals
 The notebook includes several images and plots, such as:
-- ![Logistic Regression vs Perceptron](One_Neuron_Model_vs_Sklearn_Breast_Cancer_Data/assets/LogisticRegresion_Perceptron.png)
-- Perceptron illustration
+
+-  ![Logistic Regression vs Perceptron](One_Neuron_Model_vs_Sklearn_Breast_Cancer_Data/assets/LogisticRegresion_Perceptron.png)
+- 🧑‍🏫 Perceptron illustration
+
+#### 📷 Sample Output:
+
+![Cost vs Epochs](One_Neuron_Model_vs_Sklearn_Breast_Cancer_Data/assets/costvsEpochs.png)
+- 📉 ROC curves and 🟦 confusion matrices
+---
 
 
 ## 📋 Results Comparison
@@ -58,11 +69,3 @@ The notebook includes several images and plots, such as:
 ## 📄 License
 This project is for educational purposes. Please cite the original sources if you use or adapt the code.
 
-�� Folder: `01_Breast_Canser_DL/` 
-▶️ [View Notebook](One_Neuron_Model_vs_Sklearn_Breast_Cancer_Data/One_Neuron_Model_vs_Sklearn_Breast_Cancer_Data.ipynb)
-
-#### 📷 Sample Output:
-
-![Cost vs Epochs](One_Neuron_Model_vs_Sklearn_Breast_Cancer_Data/assets/costvsEpochs.png)
-- ROC curves and confusion matrices
----
