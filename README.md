@@ -45,9 +45,8 @@ This project demonstrates and compares a manually implemented single-neuron (per
 ## Visuals
 The notebook includes several images and plots, such as:
 - ![Logistic Regression vs Perceptron](One_Neuron_Model_vs_Sklearn_Breast_Cancer_Data/assets/LogisticRegresion_Perceptron.png)
-- ![Cost vs Epochs](One_Neuron_Model_vs_Sklearn_Breast_Cancer_Data/assets/costvsEpochs.png)
 - Perceptron illustration
-- ROC curves and confusion matrices
+
 
 ## Results Comparison
 
@@ -64,6 +63,6 @@ This project is for educational purposes. Please cite the original sources if yo
 
 #### 📷 Sample Output:
 
-![Cost vs Epochs](breast_cancer_perceptron_manual_vs_sklearn/assets/costvsEpochs.png)
-
+![Cost vs Epochs](One_Neuron_Model_vs_Sklearn_Breast_Cancer_Data/assets/costvsEpochs.png)
+- ROC curves and confusion matrices
 ---
