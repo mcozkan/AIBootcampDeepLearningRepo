@@ -10,7 +10,7 @@ This project demonstrates and compares a manually implemented single-neuron (per
   - 🧑‍🏫 `gorseller_perceptron.jpg`: Additional illustration.
 
 �� Folder: `Breast_Canser_Model/` 
-▶️ [View Notebook](One_Neuron_Model_vs_Sklearn_Breast_Cancer_Data/One_Neuron_Model_vs_Sklearn_Breast_Cancer_Data.ipynb)
+▶️ [One_Neuron_Model_vs_Sklearn_Breast_Cancer_Data/One_Neuron_Model_vs_Sklearn_Breast_Cancer_Data.ipynb](https://github.com/mcozkan/AIBootcampDeepLearningRepo/blob/main/One_Neuron_Model_vs_Sklearn_Breast_Cancer_Data/One_Neuron_Model%20_vs_Sklearn_Breast_Cancer_Data.ipynb))
 
 
 ## 🎯 What You'll Learn
