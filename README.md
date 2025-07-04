@@ -9,8 +9,8 @@ This project demonstrates and compares a manually implemented single-neuron (per
   - 📈 `costvsEpochs.png`: Cost vs. epochs plot.
   - 🧑‍🏫 `gorseller_perceptron.jpg`: Additional illustration.
 
-�� Folder: `01_Breast_Canser_DL/` 
-▶️ [View Notebook](One_Neuron_Model_vs_Sklearn_Breast_Cancer_Data/One_Neuron_Model_vs_Sklearn_Breast_Cancer_Data.ipynb)
+�� Folder: `Breast_Canser_Model/` 
+▶️ [View Notebook](One_Neuron_Model_vs_Sklearn_Breast_Cancer_Data/One_Neuron_Model _vs_Sklearn_Breast_Cancer_Data.ipynb)
 
 
 ## 🎯 What You'll Learn
