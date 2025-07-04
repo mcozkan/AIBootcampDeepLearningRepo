@@ -27,15 +27,43 @@ This project demonstrates and compares a manually implemented single-neuron (per
 
 2. **Open the notebook**:
    - Launch Jupyter Notebook or JupyterLab.
-   - Open `One_Neuron_Model _vs_Sklearn_Breast_Cancer_Data.ipynb`.
+   - Open `One_Neuron_Model_vs_Sklearn_Breast_Cancer_Data/One_Neuron_Model _vs_Sklearn_Breast_Cancer_Data.ipynb`.
 
 3. **Run the cells** in order to reproduce the results and visualizations.
 
+## Workflow Overview
+- Initializing the weights and bias
+- Identifying:
+    - z (linear combination)
+    - sigmoid function
+    - forward and back propagation
+- Manual model prediction and results (perceptron)
+- Sklearn Logistic Regression prediction and results
+- Evaluation with ROC curves, confusion matrices, and metrics (accuracy, recall, precision, F1, AUC)
+- Visual and tabular comparison of both models
+
 ## Visuals
 The notebook includes several images and plots, such as:
-- ![Logistic Regression vs Perceptron](assets/LogisticRegresion_Perceptron.png)
-- Cost vs. Epochs
+- ![Logistic Regression vs Perceptron](One_Neuron_Model_vs_Sklearn_Breast_Cancer_Data/assets/LogisticRegresion_Perceptron.png)
+- ![Cost vs Epochs](One_Neuron_Model_vs_Sklearn_Breast_Cancer_Data/assets/costvsEpochs.png)
 - Perceptron illustration
+- ROC curves and confusion matrices
+
+## Results Comparison
+
+| Model                    | Accuracy | Recall (Sensitivity) | Precision | F1 Score | AUC  |
+|--------------------------|----------|---------------------|-----------|----------|------|
+| **Manual Perceptron**        | 0.97     | 1.00                | 0.96      | 0.98     | 0.97 |
+| **Sklearn Logistic Reg.**    | 0.96     | 1.00                | 0.95      | 0.97     | 0.95 |
 
 ## License
-This project is for educational purposes. Please cite the original sources if you use or adapt the code. 
+This project is for educational purposes. Please cite the original sources if you use or adapt the code.
+
+�� Folder: `01_Breast_Canser_DL/` 
+▶️ [View Notebook](One_Neuron_Model_vs_Sklearn_Breast_Cancer_Data/One_Neuron_Model_vs_Sklearn_Breast_Cancer_Data.ipynb)
+
+#### 📷 Sample Output:
+
+![Cost vs Epochs](breast_cancer_perceptron_manual_vs_sklearn/assets/costvsEpochs.png)
+
+---
