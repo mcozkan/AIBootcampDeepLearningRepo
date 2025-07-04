@@ -1,29 +1,41 @@
-# AIBootcampDeepLearningRepo
+# One Neuron Model vs Sklearn on Breast Cancer Data
 
+This project demonstrates and compares a manually implemented single-neuron (perceptron) model with scikit-learn's logistic regression, using the Breast Cancer dataset from scikit-learn.
 
-This repository contains mini projects completed during the Kairu AI Deeop Learning Bootcamp, Deep Learning Fundamentals
+## Project Structure
+- **One_Neuron_Model _vs_Sklearn_Breast_Cancer_Data.ipynb**: Main Jupyter notebook containing all code, explanations, and visualizations.
+- **assets/**: Folder containing images and visualizations used in the notebook, such as:
+  - `LogisticRegresion_Perceptron.png`: Visual comparison of logistic regression and perceptron.
+  - `costvsEpochs.png`: Cost vs. epochs plot.
+  - `gorseller_perceptron.jpg`: Additional illustration.
 
----
+## What You'll Learn
+- How to implement a perceptron (single neuron) from scratch in Python.
+- How to use scikit-learn's logistic regression for classification.
+- How to preprocess and analyze the Breast Cancer dataset.
+- How to visualize and compare model performance.
 
-## 📚 Project List
+## Getting Started
+1. **Clone the repository** and ensure you have the following dependencies:
+   - Python 3.x
+   - pandas
+   - numpy
+   - matplotlib
+   - seaborn
+   - scikit-learn
+   - tensorflow (optional, for further experiments)
 
-### 1.🧠 breast_cancer_perceptron_manual_vs_sklearn
+2. **Open the notebook**:
+   - Launch Jupyter Notebook or JupyterLab.
+   - Open `One_Neuron_Model _vs_Sklearn_Breast_Cancer_Data.ipynb`.
 
-Perceptron-Manuel Modelling and Sklearn Logistic regression on the Breast Cancer dataset.
+3. **Run the cells** in order to reproduce the results and visualizations.
 
-- Initializing the weights and bias  
-- Identifying :
-    - z
-    - sigmoid function
-    - forward and back propagation  
-- Manuel model prediction and results
-- Sklearn Logistic Regression prediction and results
+## Visuals
+The notebook includes several images and plots, such as:
+- ![Logistic Regression vs Perceptron](assets/LogisticRegresion_Perceptron.png)
+- Cost vs. Epochs
+- Perceptron illustration
 
-📁 Folder: `01_penguins_eda/`  
-▶️ [View Notebook](PalmerPenguinsEDA/PalmersPenguinsEDA.ipynb)
-
-#### 📷 Sample Output:
-
-![Cost vs Epochs](breast_cancer_perceptron_manual_vs_sklearn/assets/costvsEpochs.png)
-
----
+## License
+This project is for educational purposes. Please cite the original sources if you use or adapt the code. 
